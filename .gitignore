@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-data/
+# data/
 finetune_model/
 qwen3-0.6B/
 build/
