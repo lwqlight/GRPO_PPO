@@ -33,6 +33,7 @@ print(f"Group Size: {GROUP_SIZE}")
 
 # --- 2. 类定义 ---
 
+
 # 数据集 (不变)
 class PromptDataset(Dataset):
     def __init__(self, prompts, tokenizer, apply_chat_template=False):
